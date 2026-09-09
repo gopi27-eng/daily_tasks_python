@@ -1,0 +1,18 @@
+2026-08-26 10:02:39.435 | INFO     | __main__:<module>:83 - Base data directory: /mnt/c/Users/Gopi/Desktop/python_devops/data_store
+2026-08-26 10:02:39.463 | WARNING  | __main__:scane_dataset_dir:67 - Ignored non-CSV asset: prosess (suffix: )
+2026-08-26 10:02:39.467 | WARNING  | __main__:scane_dataset_dir:67 - Ignored non-CSV asset: raw (suffix: )
+2026-08-26 10:02:39.558 | INFO     | __main__:scane_dataset_dir:71 - Scan completed. Total CSVs found: 2, Total Size: 92 bytes
+2026-08-26 10:03:08.372 | INFO     | __main__:<module>:83 - Base data directory: /mnt/c/Users/Gopi/Desktop/python_devops/data_store
+2026-08-26 10:03:08.389 | WARNING  | __main__:scane_dataset_dir:67 - Ignored non-CSV asset: prosess (suffix: )
+2026-08-26 10:03:08.397 | WARNING  | __main__:scane_dataset_dir:67 - Ignored non-CSV asset: raw (suffix: )
+2026-08-26 10:03:08.456 | INFO     | __main__:scane_dataset_dir:71 - Scan completed. Total CSVs found: 2, Total Size: 92 bytes
+2026-08-26 10:05:40.719 | INFO     | __main__:<module>:80 - Base data directory: /mnt/c/Users/Gopi/Desktop/python_devops/data_store
+2026-08-26 10:05:40.806 | INFO     | __main__:scane_dataset_dir:68 - Scan completed. Total CSVs found: 2, Total Size: 92 bytes
+2026-08-26 10:06:29.513 | INFO     | __main__:<module>:80 - Base data directory: /mnt/c/Users/Gopi/Desktop/python_devops/data_store
+2026-08-26 10:06:29.589 | INFO     | __main__:scane_dataset_dir:68 - Scan completed. Total CSVs found: 2, Total Size: 92 bytes
+2026-08-26 10:07:35.503 | INFO     | __main__:<module>:73 - Base data directory: /mnt/c/Users/Gopi/Desktop/python_devops/data_store
+2026-08-26 10:07:35.549 | INFO     | __main__:scan_dataset_dir:63 - Scan completed. Total CSVs found: 2, Total Size: 92 bytes
+2026-08-26 10:07:35.550 | INFO     | __main__:<module>:75 - Manifest: [{'filename': 'mock.csv', 'rel_path': 'raw/mock.csv', 'size_bytes': 35}, {'filename': 'test.csv', 'rel_path': 'raw/test.csv', 'size_bytes': 35}]
+2026-08-26 10:11:45.269 | INFO     | __main__:<module>:73 - Base data directory: /mnt/c/Users/Gopi/Desktop/python_devops/data_store
+2026-08-26 10:11:45.385 | INFO     | __main__:scan_dataset_dir:63 - Scan completed. Total CSVs found: 2, Total Size: 92 bytes
+2026-08-26 10:11:45.386 | INFO     | __main__:<module>:75 - Manifest: [{'filename': 'mock.csv', 'rel_path': 'raw/mock.csv', 'size_bytes': 35}, {'filename': 'test.csv', 'rel_path': 'raw/test.csv', 'size_bytes': 35}]

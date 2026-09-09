@@ -1,0 +1,14 @@
+---
+
+pipeline:
+  name: "Quikjet Delay Predictor"
+  version: 1.2
+data:
+  input_path: "storage/data/flights.csv"
+  target_column: "Delay"
+model:
+  algorithm: "LogisticRegression"
+  hyperparameters:
+    random_state: 42
+    test_size: 0.25
+    learning_rate: 0.01

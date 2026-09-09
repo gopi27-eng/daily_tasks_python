@@ -1,0 +1,122 @@
+2026-09-02 11:41:06.556 | INFO     | __main__:<module>:13 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 12:25:50.410 | INFO     | __main__:<module>:17 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 12:28:36.703 | INFO     | __main__:<module>:17 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 12:28:36.704 | INFO     | __main__:run_scraper:21 - Starting scraper for http://quotes.toscrape.com/
+2026-09-02 12:28:37.242 | INFO     | __main__:run_scraper:26 - Successfully fetched quotes from http://quotes.toscrape.com/
+2026-09-02 12:28:37.286 | INFO     | __main__:run_scraper:33 - Extracting data...
+2026-09-02 12:28:37.290 | INFO     | __main__:run_scraper:35 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 12:28:37.793 | INFO     | __main__:run_scraper:35 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 12:28:38.296 | INFO     | __main__:run_scraper:35 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 12:28:38.798 | INFO     | __main__:run_scraper:35 - “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+2026-09-02 12:28:39.300 | INFO     | __main__:run_scraper:35 - “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+2026-09-02 12:28:39.803 | INFO     | __main__:run_scraper:35 - “Try not to become a man of success. Rather become a man of value.”
+2026-09-02 12:28:40.306 | INFO     | __main__:run_scraper:35 - “It is better to be hated for what you are than to be loved for what you are not.”
+2026-09-02 12:28:40.809 | INFO     | __main__:run_scraper:35 - “I have not failed. I've just found 10,000 ways that won't work.”
+2026-09-02 12:28:41.312 | INFO     | __main__:run_scraper:35 - “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+2026-09-02 12:28:41.814 | INFO     | __main__:run_scraper:35 - “A day without sunshine is like, you know, night.”
+2026-09-02 12:44:03.776 | INFO     | __main__:<module>:17 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 12:44:03.776 | INFO     | __main__:run_scraper:21 - Starting scraper for http://quotes.toscrape.com/
+2026-09-02 12:44:04.308 | INFO     | __main__:run_scraper:26 - Successfully fetched quotes from http://quotes.toscrape.com/
+2026-09-02 12:44:04.356 | INFO     | __main__:run_scraper:33 - Extracting data...
+2026-09-02 12:44:04.360 | INFO     | __main__:run_scraper:35 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 12:44:04.862 | INFO     | __main__:run_scraper:35 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 12:44:05.365 | INFO     | __main__:run_scraper:35 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 12:44:05.868 | INFO     | __main__:run_scraper:35 - “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+2026-09-02 12:44:06.371 | INFO     | __main__:run_scraper:35 - “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+2026-09-02 12:44:06.873 | INFO     | __main__:run_scraper:35 - “Try not to become a man of success. Rather become a man of value.”
+2026-09-02 12:44:07.376 | INFO     | __main__:run_scraper:35 - “It is better to be hated for what you are than to be loved for what you are not.”
+2026-09-02 12:44:07.878 | INFO     | __main__:run_scraper:35 - “I have not failed. I've just found 10,000 ways that won't work.”
+2026-09-02 12:44:08.381 | INFO     | __main__:run_scraper:35 - “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+2026-09-02 12:44:08.885 | INFO     | __main__:run_scraper:35 - “A day without sunshine is like, you know, night.”
+2026-09-02 13:10:36.676 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:10:36.677 | INFO     | __main__:run_scraper:25 - Starting scraper for http://quotes.toscrape.com/
+2026-09-02 13:10:37.350 | INFO     | __main__:run_scraper:30 - Successfully fetched quotes from http://quotes.toscrape.com/
+2026-09-02 13:10:37.395 | INFO     | __main__:run_scraper:38 - Extracting data...
+2026-09-02 13:10:37.397 | INFO     | __main__:run_scraper:40 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:10:37.900 | INFO     | __main__:run_scraper:40 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:10:38.404 | INFO     | __main__:run_scraper:40 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 13:10:38.907 | INFO     | __main__:run_scraper:40 - “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+2026-09-02 13:10:39.410 | INFO     | __main__:run_scraper:40 - “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+2026-09-02 13:10:39.912 | INFO     | __main__:run_scraper:40 - “Try not to become a man of success. Rather become a man of value.”
+2026-09-02 13:10:40.414 | INFO     | __main__:run_scraper:40 - “It is better to be hated for what you are than to be loved for what you are not.”
+2026-09-02 13:10:40.917 | INFO     | __main__:run_scraper:40 - “I have not failed. I've just found 10,000 ways that won't work.”
+2026-09-02 13:10:41.420 | INFO     | __main__:run_scraper:40 - “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+2026-09-02 13:10:41.923 | INFO     | __main__:run_scraper:40 - “A day without sunshine is like, you know, night.”
+2026-09-02 13:12:09.592 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:12:09.643 | INFO     | __main__:run_scraper:25 - Starting scraper for run-scraper
+2026-09-02 13:12:09.646 | ERROR    | __main__:run_scraper:44 - Error fetching quotes from run-scraper: Invalid URL 'run-scraper': No scheme supplied. Perhaps you meant https://run-scraper?
+2026-09-02 13:19:21.434 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:19:21.435 | INFO     | __main__:run_scraper:25 - Starting scraper for http://quotes.toscrape.com/
+2026-09-02 13:19:22.136 | INFO     | __main__:run_scraper:30 - Successfully fetched quotes from http://quotes.toscrape.com/
+2026-09-02 13:19:22.159 | INFO     | __main__:run_scraper:38 - Extracting data...
+2026-09-02 13:19:22.161 | INFO     | __main__:run_scraper:40 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:19:22.662 | INFO     | __main__:run_scraper:40 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:19:23.164 | INFO     | __main__:run_scraper:40 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 13:19:23.666 | INFO     | __main__:run_scraper:40 - “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+2026-09-02 13:19:24.168 | INFO     | __main__:run_scraper:40 - “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+2026-09-02 13:19:24.669 | INFO     | __main__:run_scraper:40 - “Try not to become a man of success. Rather become a man of value.”
+2026-09-02 13:19:25.170 | INFO     | __main__:run_scraper:40 - “It is better to be hated for what you are than to be loved for what you are not.”
+2026-09-02 13:19:25.672 | INFO     | __main__:run_scraper:40 - “I have not failed. I've just found 10,000 ways that won't work.”
+2026-09-02 13:19:26.174 | INFO     | __main__:run_scraper:40 - “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+2026-09-02 13:19:26.675 | INFO     | __main__:run_scraper:40 - “A day without sunshine is like, you know, night.”
+2026-09-02 13:19:51.602 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:21:58.207 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:21:58.208 | INFO     | __main__:run_scraper:25 - Starting scraper for http://quotes.toscrape.com/
+2026-09-02 13:21:58.837 | INFO     | __main__:run_scraper:30 - Successfully fetched quotes from http://quotes.toscrape.com/
+2026-09-02 13:21:58.887 | INFO     | __main__:run_scraper:38 - Extracting data...
+2026-09-02 13:21:58.890 | INFO     | __main__:run_scraper:40 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:21:59.392 | INFO     | __main__:run_scraper:40 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:21:59.894 | INFO     | __main__:run_scraper:40 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 13:24:13.222 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:24:13.222 | INFO     | __main__:run_scraper:29 - Starting scraper for http://quotes.toscrape.com/
+2026-09-02 13:24:14.175 | INFO     | __main__:run_scraper:34 - Successfully fetched quotes from http://quotes.toscrape.com/
+2026-09-02 13:24:14.220 | INFO     | __main__:run_scraper:42 - Extracting data...
+2026-09-02 13:24:14.223 | INFO     | __main__:run_scraper:44 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:24:14.725 | INFO     | __main__:run_scraper:44 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:24:15.228 | INFO     | __main__:run_scraper:44 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 13:29:15.778 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:29:15.801 | INFO     | __main__:run_scraper:29 - Starting scraper for run-scraper
+2026-09-02 13:29:15.805 | ERROR    | __main__:run_scraper:48 - Error fetching quotes from run-scraper: Invalid URL 'run-scraper': No scheme supplied. Perhaps you meant https://run-scraper?
+2026-09-02 13:31:06.068 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:32:08.949 | INFO     | __main__:<module>:19 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:32:58.032 | INFO     | __main__:<module>:29 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:33:46.696 | INFO     | __main__:<module>:29 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:33:46.722 | INFO     | __main__:run_scraper:53 - Starting scraper for http://quotes.toscrape.com/ (pages=1, limit=2, delay=0.5)
+2026-09-02 13:33:47.359 | INFO     | __main__:run_scraper:63 - Successfully fetched page 1
+2026-09-02 13:33:47.397 | INFO     | __main__:run_scraper:72 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:33:47.899 | INFO     | __main__:run_scraper:72 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:34:01.984 | INFO     | __main__:<module>:29 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:34:02.027 | INFO     | __main__:run_scraper:53 - Starting scraper for http://quotes.toscrape.com/ (pages=1, limit=5, delay=0.5)
+2026-09-02 13:34:02.721 | INFO     | __main__:run_scraper:63 - Successfully fetched page 1
+2026-09-02 13:34:02.762 | INFO     | __main__:run_scraper:72 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:34:03.265 | INFO     | __main__:run_scraper:72 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:34:03.769 | INFO     | __main__:run_scraper:72 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 13:34:04.272 | INFO     | __main__:run_scraper:72 - “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+2026-09-02 13:34:04.775 | INFO     | __main__:run_scraper:72 - “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+2026-09-02 13:34:23.708 | INFO     | __main__:<module>:29 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:34:23.728 | INFO     | __main__:run_scraper:53 - Starting scraper for http://quotes.toscrape.com/ (pages=1, limit=10, delay=0.5)
+2026-09-02 13:34:24.260 | INFO     | __main__:run_scraper:63 - Successfully fetched page 1
+2026-09-02 13:34:24.296 | INFO     | __main__:run_scraper:72 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:34:24.798 | INFO     | __main__:run_scraper:72 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:34:25.301 | INFO     | __main__:run_scraper:72 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 13:34:25.802 | INFO     | __main__:run_scraper:72 - “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+2026-09-02 13:34:26.304 | INFO     | __main__:run_scraper:72 - “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+2026-09-02 13:34:26.807 | INFO     | __main__:run_scraper:72 - “Try not to become a man of success. Rather become a man of value.”
+2026-09-02 13:34:27.308 | INFO     | __main__:run_scraper:72 - “It is better to be hated for what you are than to be loved for what you are not.”
+2026-09-02 13:34:27.810 | INFO     | __main__:run_scraper:72 - “I have not failed. I've just found 10,000 ways that won't work.”
+2026-09-02 13:34:28.312 | INFO     | __main__:run_scraper:72 - “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+2026-09-02 13:34:28.814 | INFO     | __main__:run_scraper:72 - “A day without sunshine is like, you know, night.”
+2026-09-02 13:35:07.417 | INFO     | __main__:<module>:29 - Log file path: /mnt/c/Users/Gopi/Desktop/python_devops/logs/scrapper.log
+2026-09-02 13:35:07.432 | INFO     | __main__:run_scraper:53 - Starting scraper for http://quotes.toscrape.com/ (pages=1, limit=10, delay=0.5)
+2026-09-02 13:35:08.561 | INFO     | __main__:run_scraper:63 - Successfully fetched page 0
+2026-09-02 13:35:09.102 | INFO     | __main__:run_scraper:63 - Successfully fetched page 1
+2026-09-02 13:35:09.120 | INFO     | __main__:run_scraper:72 - “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+2026-09-02 13:35:09.622 | INFO     | __main__:run_scraper:72 - “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+2026-09-02 13:35:10.125 | INFO     | __main__:run_scraper:72 - “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+2026-09-02 13:35:10.627 | INFO     | __main__:run_scraper:72 - “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+2026-09-02 13:35:11.130 | INFO     | __main__:run_scraper:72 - “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+2026-09-02 13:35:11.632 | INFO     | __main__:run_scraper:72 - “Try not to become a man of success. Rather become a man of value.”
+2026-09-02 13:35:12.135 | INFO     | __main__:run_scraper:72 - “It is better to be hated for what you are than to be loved for what you are not.”
+2026-09-02 13:35:12.638 | INFO     | __main__:run_scraper:72 - “I have not failed. I've just found 10,000 ways that won't work.”
+2026-09-02 13:35:13.141 | INFO     | __main__:run_scraper:72 - “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+2026-09-02 13:35:13.644 | INFO     | __main__:run_scraper:72 - “A day without sunshine is like, you know, night.”
